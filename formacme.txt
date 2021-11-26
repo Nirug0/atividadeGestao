@@ -1,0 +1,22 @@
+<!--
+<h3 class="texto1" id="titform">Formulário:</h3>
+<h4 class="texto1" id="titform2">Contato</h4>
+<div>
+    <form action="http://hub.fatecrl.edu.br/sobrino/recebe.php" method="post" class="texto1" id="form">
+        <label>Nome:</label>
+        <input type="text" name="nome" id="nome" size="30" maxlength="30"><br>
+        <label>E-mail:</label>
+        <input type="email" name="email" id="email" size="30" maxlength="30"><br>
+        <label>Estuda na FATEC?</label>
+            <select>
+                <option>Sim
+                <option>Não
+                <option>Pretendo
+            </select><br>
+        <label>Qual?</label>
+        <input type="text" name="fatec" value="Fatec" id="fatec" size="20" maxlength="20"><br>
+
+        <input type="submit" value="Enviar respostas">
+    </form>
+</div>
+-->
